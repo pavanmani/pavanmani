@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi, I am Manikanta Maroju 👋
 
+About ME:
+
+I am a Full Stack software Engineer with strong expertise in C# .NET and ReactJS from Hyderabad
 <!--
 **pavanmani/pavanmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🛠️ Languages and Tools :
-C#  .NET  JavaScript  React  AngularJS  Redux   SCSS  CSS  HTML  MySQL  NodeJS  AWS  Git
+C#  .NET  JavaScript  React  AngularJS  Redux   SCSS  HTML  MySQL  NodeJS  AWS  Git
