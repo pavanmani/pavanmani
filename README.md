@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🛠️ Languages and Tools :
-C#  .NET  JavaScript  React  AngularJS  Redux   SCSS  HTML  MySQL  NodeJS  AWS  Git
+C#  .NET ReactJS  Next.js  AngularJS  Redux  SCSS  HTML  MSSQL AWS  Git
