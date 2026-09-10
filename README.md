@@ -1,49 +1,38 @@
-# Hi, I'm Manikanta Maroju 👋  
+# Hi, I'm Manikanta Maroju
 
-🚀 **Full Stack Software Engineer** | .NET | React | Azure | DevOps Enthusiast  
+Full-stack engineer | .NET · React · Azure · SQL Server
 
----
+I build and maintain enterprise web applications — APIs, UI, databases, and Azure infrastructure. I care about making things reliable and understandable: query performance, auth and session handling, and keeping cloud integrations off the public internet where they don't belong.
 
-## 👨‍💻 About Me  
-Hi, I’m Mani — a full-stack developer who loves building things that are simple, fast, and meaningful. I work mainly with .NET Web APIs, React, Next.js, and MS SQL, and I enjoy creating applications that feel smooth, reliable, and thoughtfully designed.
+Currently with **Hitachi Energy** in Bengaluru, working across .NET Web API, React, MS SQL Server, and Azure. Also pursuing an Executive M.Tech in Data Science & Artificial Intelligence at PES University.
 
-I’m someone who loves to learn new things, thinks deeply, and always looks for ways to improve — whether it’s writing better code, optimizing, or becoming a better version of myself outside of work. Technology keeps me curious, but growth keeps me moving.
-
-I value honesty, effort, and real connection. Life has taught me that resilience is a skill, not a trait and I bring that mentality into both my career and my personal journey. I’m building not just software, but a future I can be proud of.
-
-If you’re here to know what drives me:
-It’s simple - I want to create, evolve, and contribute to something bigger than myself.
-
-Welcome to my space.
-
-- 🎯 **Expertise:** .NET Core, ASP.NET, Web APIs, React, Next.js, SQL  
-- ☁ **Cloud & DevOps:** Azure, Azure DevOps, AWS  
-- 📌 **Tech Interests:** Rust, DevOps, Microservices, CI/CD  
-- 💡 **Hobbies:**  Mythology, Xianxia Novels, Cricket and Music  
+- **Focus:** C# / .NET Web API, React, SQL Server, Azure
+- **Also using:** Terraform, Azure DevOps, Redis, CQRS
+- **Learning:** data science & AI (M.Tech), alongside day-to-day delivery
+- **Outside work:** mythology, xianxia novels, cricket, music
 
 ---
 
-## 🛠️ Tech Stack & Tools  
-🔹 **Languages & Frameworks:** C#, .NET Core, ASP.NET, React, Next.js, Redux, Python
-🔹 **Cloud & DevOps:** Azure, AWS, Azure DevOps, CI/CD Pipelines  
-🔹 **Databases:** MSSQL, ADO.NET, Entity Framework, Dapper  
-🔹 **Version Control:** Git, GitHub, GitLab  
-🔹 **Styling:** SASS, Tailwind CSS  
-🔹 **Others:** Design Patterns, Agile Methodology  
+## Tech
+
+**Backend** — C#, .NET Web API, ASP.NET Core, Entity Framework, ADO.NET, CQRS, Clean Architecture  
+**Frontend** — React, Next.js, Redux, Tailwind CSS, SASS  
+**Data** — MS SQL Server (stored procedures, indexing, query plans), Redis, MySQL  
+**Cloud** — Azure App Services, Azure Functions, Azure VNet & private endpoints, Terraform, Azure DevOps  
+**Practices** — Git, SonarQube, Agile
 
 ---
 
-## 📈 GitHub Stats  
-📊 **Fun fact:** I once started a project just to learn a new framework, and it ended up becoming a full-fledged application!  
+## Selected work
 
-<!--🔥 **Currently working on:** A **school website** using **Next.js** & Azure  -->
-🌱 **Learning:** Cloud architectures & DevOps best practices  
+**Wisdom Grammar High School** — [wghs.in](https://wghs.in)  
+Designed, built, and deployed the school's public site in React, from UI through hosting.
+
+Most of my current work is on an internal Hitachi Energy platform, so it isn't in this repo. Happy to talk through the stack and the kinds of problems I work on.
 
 ---
 
-## 📫 Let's Connect!  
-📧 **Email:** marojumanikantapavanacharya@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/manikantamaroju/  
-<!--🌎 **Portfolio:** [Your Website]  -->
+## Connect
 
-🚀 **Always open to new opportunities and collaborations!**  
+- Email: [marojumanikantapavanacharya@gmail.com](mailto:marojumanikantapavanacharya@gmail.com)
+- LinkedIn: [linkedin.com/in/manikantamaroju](https://www.linkedin.com/in/manikantamaroju/)
